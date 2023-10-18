@@ -1,0 +1,71 @@
+human_race,violation_reason,stop_time,stop_duration,violation_raw
+white,drugs,10:30,10,driving on red
+black,speeding,12:20,10,did not miss the pedestrian
+black,drugs,15:45,25,speeding
+black,drugs,18:15,30,speeding
+white,speeding,23:30,20,driving on red
+black,drugs,1:20,40,did not miss the pedestrian
+white,speeding,4:15,15,speeding
+white,speeding,7:45,25,running a red light
+black,speeding,9:10,15,using a cellphone while driving
+white,drugs,14:55,20,driving without a seatbelt
+white,speeding,16:40,10,did not stop at a stop sign
+black,drugs,19:25,30,speeding in a school zone
+white,speeding,22:05,15,changing lanes without signaling
+white,drugs,2:30,25,did not yield to a pedestrian
+black,speeding,5:00,10,driving with a broken tail light
+white,drugs,8:15,20,following too closely
+black,speeding,11:30,15,improper passing
+black,drugs,13:45,10,reckless driving
+white,speeding,17:20,30,failure to yield the right of way
+white,speeding,19:50,20,running a red light
+black,drugs,21:15,25,excessive speeding
+white,speeding,23:45,10,distracted driving
+black,speeding,3:10,15,failure to signal a turn
+black,drugs,5:35,25,driving without headlights at night
+white,speeding,7:05,30,illegal U-turn
+white,drugs,9:25,20,failure to obey a traffic signal
+black,speeding,11:40,15,driving in a bike lane
+black,drugs,14:00,10,driving with an expired license
+white,speeding,16:30,20,illegal parking
+white,drugs,18:55,30,improper use of high-beam headlights
+black,speeding,21:20,10,failure to yield to a school bus
+black,speeding,0:40,25,driving without a valid registration
+white,speeding,3:15,15,improper lane change
+white,drugs,6:05,10,speeding in a construction zone
+black,speeding,8:30,20,illegal turn at an intersection
+black,drugs,10:55,30,driving on the wrong side of the road
+white,speeding,13:10,10,excessive horn honking
+white,drugs,15:45,15,rolling through a stop sign
+black,speeding,18:25,25,driving with an obstructed windshield
+black,drugs,21:00,20,improper passing of a school bus
+white,speeding,23:55,10,driving with an open container of alcohol
+white,drugs,2:15,30,did not stop for a pedestrian in a crosswalk
+black,speeding,4:30,15,improper backing up
+black,drugs,7:05,10,failure to yield to an emergency vehicle
+white,speeding,9:40,20,driving on the shoulder of the road
+white,speeding,12:00,25,driving on a closed road
+black,speeding,14:20,15,improper overtaking
+black,drugs,16:45,10,illegal street racing
+white,speeding,19:15,30,driving without a license
+white,drugs,21:50,20,driving on the wrong side of the road
+black,speeding,0:10,10,failure to stop at a railroad crossing
+black,speeding,2:40,25,driving with a cracked windshield
+white,speeding,5:25,15,driving without insurance
+white,drugs,8:00,10,speeding in a residential area
+black,speeding,10:35,20,failure to stop for a school bus
+black,drugs,12:55,30,improper use of turn signals
+white,speeding,15:20,10,driving on a sidewalk
+white,speeding,17:50,25,evading the police
+black,speeding,20:25,15,failure to use a child safety seat
+black,drugs,22:45,10,improper use of a carpool lane
+white,speeding,1:05,30,driving without a valid inspection sticker
+white,drugs,3:30,20,improper parking in a handicapped space
+black,speeding,6:15,15,failure to maintain a safe following distance
+black,drugs,8:40,10,reckless endangerment
+white,speeding,11:00,20,failure to dim headlights
+white,speeding,13:20,25,distracted driving
+black,speeding,15:45,10,driving with an open container of alcohol
+black,drugs,18:05,30,speeding in a work zone
+white,speeding,20:30,10,improper use of fog lights
+white,drugs,22:55,20,did not yield to a funeral procession
